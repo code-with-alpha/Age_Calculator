@@ -13,7 +13,7 @@ An interactive web application that computes your age based on your date of birt
 
 1. Clone this repository to your local machine.
 ```bash
-git clone https://github.com/code-with-alpha/Age-Calculator.git
+git clone https://github.com/code-with-alpha/Age_Calculator.git
 ```
 2. Navigate to the project directory.
 3. Open `index.html` in your preferred web browser.
